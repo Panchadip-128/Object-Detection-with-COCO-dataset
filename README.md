@@ -1,4 +1,3 @@
-# Object-Detection-with-COCO-dataset
 # Project Title: Object Detection with YOLOv5
 
 Project Description:
