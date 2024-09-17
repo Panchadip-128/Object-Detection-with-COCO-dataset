@@ -9,7 +9,7 @@ Features:
 Real-time object detection on images and video streams.
 Training the YOLOv5 model on custom datasets.
 Evaluation using key metrics such as Precision, Recall, Intersection over Union (IoU), and Mean Average Precision (mAP).
-Deployment for detecting objects in images and video streams.
+Deployment for detecting objects in images and video streams (GPU requirements for this case is much preferrable)
 Model robustness testing with image augmentations.
 
 Requirements:
